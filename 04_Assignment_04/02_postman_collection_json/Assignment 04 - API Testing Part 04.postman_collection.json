@@ -1,0 +1,48 @@
+{
+  "info": {
+    "_postman_id": "e7bff480-2fb7-4408-8fdb-5c78b7ba34c7",
+    "name": "Assignment 04 - API Testing Part 04",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "42950045"
+  },
+  "item": [
+    {
+      "name": "01_get_countries",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "countriesBaseUrl",
+      "value": ""
+    }
+  ]
+}
