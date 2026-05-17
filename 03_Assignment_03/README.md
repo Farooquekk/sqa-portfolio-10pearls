@@ -22,7 +22,8 @@ This assignment covers manual bug testing across **three live websites**. Each s
 ```
 03_Assignment_03/
 │
-├── 📄 Assignment_03_Bug_Reporting_Farooque_Sajjad.xlsx     ← Full bug report with all sheets
+├──📁01_Assignment_File/
+   ├── 📄Assignment_03_Bug_Reporting_Farooque_Sajjad.xlsx     ← Full bug report with all sheets
 │
 ├── 📁 screenshots/
 │   │
