@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1779199219528,2221,Create Post,201,Created,Crud API Testing 1-1,text,true,,1504,363,1,1,https://jsonplaceholder.typicode.com/posts,2221,0,1370
+1779199221801,119,Get Post,404,Not Found,Crud API Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",1203,191,1,1,https://jsonplaceholder.typicode.com/posts/101,119,0,0
+1779199221924,790,Update Post,500,Internal Server Error,Crud API Testing 1-1,text,false,Test failed: code expected to match /2\\d\\d/,2009,281,1,1,https://jsonplaceholder.typicode.com/posts/101,789,0,0
+1779199222718,331,Patch Post,200,OK,Crud API Testing 1-1,text,true,,1238,226,1,1,https://jsonplaceholder.typicode.com/posts/101,331,0,0
+1779199223050,328,Delete Post,200,OK,Crud API Testing 1-1,text,true,,1192,194,1,1,https://jsonplaceholder.typicode.com/posts/101,328,0,0
+1779199223379,114,Verify Delete,404,Not Found,Crud API Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",1202,191,1,1,https://jsonplaceholder.typicode.com/posts/101,114,0,0
