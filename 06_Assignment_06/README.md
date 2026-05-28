@@ -49,7 +49,7 @@ The following objectives were achieved during this assignment:
 ```text
 06_Assignment_06/
 │
-├── cypress_automation_project/
+├── cypress_automation_saucedemo/
 │   ├── cypress/
 │   │   ├── e2e/
 │   │   ├── fixtures/
