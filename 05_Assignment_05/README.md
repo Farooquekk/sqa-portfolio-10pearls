@@ -27,7 +27,6 @@ This project contains an automated performance and functional test suite built u
 │   ├── TestPlans/
 │   │   └── Crud API Testing.jmx   # Main JMeter test plan script
 │   └── WorkFlow_Report.md         # Narrative breakdown of execution
-├── .gitignore
 └── README.md                      # Main project documentation
 
 ```
