@@ -22,13 +22,13 @@ This project automates an end-to-end product search flow on Daraz.pk using Playw
 ## Clone Repository
 
 ```bash
-git clone <https://github.com/Farooquekk/sqa-portfolio-10pearls/tree/main/07_Assignment_07>
+git clone https://github.com/Farooquekk/sqa-portfolio-10pearls.git
 ```
 
-## Navigate to Project
+## Navigate to 07_Assignment_07 Project
 
 ```bash
-cd 01_Playwright_Daraz_Automation
+cd sqa-portfolio-10pearls/07_Assignment_07/01_Playwright_Daraz_Automation
 ```
 
 ## Install Dependencies
