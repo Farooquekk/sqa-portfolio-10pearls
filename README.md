@@ -27,49 +27,191 @@ This repository will continue to evolve as I learn new tools, techniques, and in
 
 ## Assignments
 
-### Assignment 01
+### Assignment 01 - Requirement Analysis and User Story Writing for Online Book Store
 
-**Requirement Analysis and User Story Writing for Online Book Store**
+**Topics Covered:**
 
-**Key Learnings:**
-
-* Requirement Analysis (FR and NFR)
-* User Story Writing
-* Gherkin Syntax for Acceptance Criteria
-* Sprint Planning and Story Point Estimation
+* Functional and Non-Functional Requirements
+* User Stories
+* Gherkin Acceptance Criteria
+* Sprint Planning
+* Story Point Estimation
 * MoSCoW Prioritization
 * Requirement Traceability Matrix (RTM)
-* Understanding of basic system design for e-commerce workflows
 
-**Summary:**
-In this assignment, I analyzed an online bookstore system and documented complete requirements, user stories, and sprint plans. I also established traceability between requirements and user stories to ensure full coverage.
+**Deliverables:**
+
+* Requirement Analysis Report
+* User Stories
+* Sprint Planning Documentation
+* RTM Matrix
+
+---
+
+### Assignment 02 - Test Case Design and Execution for Online Book Store
+
+**Topics Covered:**
+
+* Test Scenario Design
+* Test Case Writing
+* Test Execution
+* Test Planning
+* TestWorthy Test Management Tool
+* Test Reporting and Traceability
+
+**Deliverables:**
+
+* 67 Manual Test Cases
+* Excel-Based Test Documentation
+* Test Plan Reports
+* Milestone Reports
+* Test Run Reports
+* Workflow Report
 
 ---
 
-## Future Assignments
+### Assignment 03 - Multi-Site Bug Reporting
 
-This repository will be updated regularly as I progress through my internship.
+**Topics Covered:**
 
-For each new assignment, I will document:
+* Manual Testing
+* Bug Identification
+* Defect Reporting
+* Severity and Priority Classification
+* Reproduction Steps Documentation
 
-* Problem statement
-* Approach and solution
-* Tools and technologies used
-* Key learnings
+**Applications Tested:**
 
-### Planned Skill Growth Areas
+* Demoblaze
+* The Internet Herokuapp
+* SauceDemo
 
-* Test Case Design and Execution
-* API Testing (Postman and JMeter)
-* Automation Testing Frameworks
-* Selenium, Playwright, and Cypress
-* Database Testing (SQL and NoSQL) *(not included in assignments but recommended by the instructor)*
-* Bug Reporting
-* CI/CD integration basics *(not included in assignments but planned for self-learning)*
+**Deliverables:**
 
-Each assignment will reflect practical learning from these areas.
+* 22 Bug Reports
+* Screenshots and Evidence
+* Bug Tracking Documentation
 
 ---
+
+### Assignment 04 - API Testing Using Postman
+
+**Topics Covered:**
+
+* REST API Testing
+* CRUD Operations
+* API Chaining
+* Bearer Token Authentication
+* Dynamic Variables
+* Automated Assertions
+* Negative Testing
+* Postman Scripting
+
+**APIs Tested:**
+
+* Simple Books API
+* REST Countries API
+
+**Deliverables:**
+
+* Postman Collections
+* Automated API Tests
+* API Validation Reports
+
+---
+
+### Assignment 05 - API Performance Testing Using JMeter
+
+**Topics Covered:**
+
+* Performance Testing
+* Load Testing
+* Data-Driven Testing
+* CRUD Workflow Validation
+* CSV Parameterization
+* Response Analysis
+
+**Deliverables:**
+
+* JMeter Test Plans
+* Performance Test Results
+* Execution Reports
+
+---
+
+### Assignment 06 - Cypress Automation Framework
+
+**Topics Covered:**
+
+* Cypress Automation Testing
+* Page Object Model (POM)
+* Custom Commands
+* UI Automation
+* Test Reporting
+* Framework Design Best Practices
+
+**Application Tested:**
+
+* SauceDemo
+
+**Deliverables:**
+
+* Cypress Automation Framework
+* Login Validation Tests
+* Product Navigation Tests
+* Workflow Report
+* Project Documentation
+
+---
+
+### Assignment 07 - Playwright Automation Framework
+
+**Topics Covered:**
+
+* Playwright Automation Testing
+* Page Object Model (POM)
+* Multi-Browser Testing
+* Product Search and Filtering
+* Dynamic Locator Handling
+* Assertions and Reporting
+
+**Application Tested:**
+
+* Daraz.pk
+
+**Deliverables:**
+
+* Playwright Automation Framework
+* Product Search Automation
+* Filter Validation
+* Product Detail Validation
+* Shipping Verification
+* Workflow Report
+
+---
+
+### 08_Certificates – 10Pearls University Certificates
+
+**Completed Courses:**
+
+* QA Fundamentals
+* Testworthy
+* Postman
+* JMeter
+* Cypress Automation
+* Selenium WebDriver & TestNG
+
+**Purpose:**
+
+These certificates represent the learning journey and training modules completed alongside the assignments in this repository.
+
+**Deliverables:**
+
+* Course Completion Certificates
+* Learning Records and Supporting Evidence
+
+---
+
 
 ## Learning Approach
 
